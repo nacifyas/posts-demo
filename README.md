@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/nacifyas/posts-demo/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/nacifyas/posts-demo/actions/workflows/codeql-analysis.yml)
+
 Microservice corresponding to manager posts.
 
 Follow the correspondig steps at the API [Gateway Microservice](https://github.com/nacifyas/gateway-edm-demo/) to install and use.
